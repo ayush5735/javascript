@@ -1,0 +1,24 @@
+
+javascript execution context
+
+global execution context    
+
+js is single threaded
+
+function execution context
+
+eval execution context
+
+memory creation phase
+
+execution phase
+
+
+
+memory phase 
+
+execution phase
+
+
+
+
